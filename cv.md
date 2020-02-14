@@ -3,6 +3,13 @@
   * *E-mail*: nika.pinskaya@gmail.com
   * *Phone Number*: 8-906-057-42-28
 3. __Summary__:
+My purpose is to continue to studying and development of various technologies, and to learn more about JS, HTML, CS.
+ * Personal quality
+  * Ability to work in a team,
+  * Good self-organization,
+  * Ability to learn,
+  * The desire to improve in the professional sphere,
+  * Mathematical thinking.
 
 4. __Skills__:
  * Programming languages: Java, C, C++, Go, MS SQL, Scheme, Java Script, Pascal.
@@ -18,8 +25,6 @@
 6. __Experience__:
  * International Collegiate Programming Contest ICPC (2018, 2019)
  * Samsung IT School. Graduation project: a multifunctional note-taking application for Android.
-
-
 
 7. __Education__:
  * I study at Bauman Moscow State Technical University. Faculty Informatics and Сontrol Systems. Department of IU9. Specialization "Applied Mathematics and Computer Science". Bachelor course. 3 course
